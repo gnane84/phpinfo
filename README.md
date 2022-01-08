@@ -1,2 +1,2 @@
-# phpinfo
+# docker phpinfo
 
